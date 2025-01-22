@@ -1,0 +1,20 @@
+Modulos que hacen el traqueo ocular
+
+--------------------------------------------------------------
+
+EYELOOP
+https://github.com/simonarvin/eyeloop/blob/master/README.md
+
+PyEyeTrack
+https://pyeyetrack.algoasylum.com/
+
+Mediapipe
+https://ai.google.dev/edge/mediapipe/solutions/vision/face_detector?hl=es-419
+
+OpenCV-CV2
+https://docs.opencv.org/3.4/
+
+
+------------------------------------------
+Guia de CV2:
+https://konfuzio.com/es/cv2/
