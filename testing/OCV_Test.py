@@ -1,5 +1,5 @@
 import cv2
- 
+ # Almacena en la variable capture la funcion de abrir la camara 
 capture = cv2.VideoCapture(0)
 
 while (capture.isOpened()):
