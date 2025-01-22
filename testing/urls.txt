@@ -14,7 +14,9 @@ https://ai.google.dev/edge/mediapipe/solutions/vision/face_detector?hl=es-419
 OpenCV-CV2
 https://docs.opencv.org/3.4/
 
-
-------------------------------------------
+------------------------------------------ URLS 
 Guia de CV2:
 https://konfuzio.com/es/cv2/
+
+Seguimiento ocular avanzado con Python y JavaScript: configuración de doble cámara y procesamiento en tiempo real
+https://www.youtube.com/watch?v=FeowOA2qAPs
